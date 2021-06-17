@@ -50,3 +50,5 @@ C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\Inve
 C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\InventarioEquipo.Web\obj\Debug\InventarioEquipo.Web.csprojResolveAssemblyReference.cache
 C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\InventarioEquipo.Web\obj\Debug\InventarioEquipo.Web.dll
 C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\InventarioEquipo.Web\obj\Debug\InventarioEquipo.Web.pdb
+C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\InventarioEquipo.Web\bin\InventarioEquipo.BL.dll
+C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\InventarioEquipo.Web\bin\InventarioEquipo.BL.pdb

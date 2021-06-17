@@ -1,0 +1,5 @@
+C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\InventarioEquipo.BL\bin\Debug\InventarioEquipo.BL.dll
+C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\InventarioEquipo.BL\bin\Debug\InventarioEquipo.BL.pdb
+C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\InventarioEquipo.BL\obj\Debug\InventarioEquipo.BL.csprojResolveAssemblyReference.cache
+C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\InventarioEquipo.BL\obj\Debug\InventarioEquipo.BL.dll
+C:\Users\soporteit\Desktop\Repos\Sistema de Inventario\Inventario de Equipo\InventarioEquipo.BL\obj\Debug\InventarioEquipo.BL.pdb
